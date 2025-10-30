@@ -2,6 +2,8 @@
 *.log
 /.vscode/
 /.idea/
+DL2024/
+
 # Deep Learning / Data files
 data/
 datasets/
@@ -198,5 +200,3 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
-
-# End of https://www.toptal.com/developers/gitignore/api/python
