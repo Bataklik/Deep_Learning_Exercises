@@ -2,6 +2,8 @@
 
 This cheat sheet provides a quick reference to commonly used commands and features in UV, a text editor designed for programmers.
 
+[Astral: UV docs](https://docs.astral.sh/uv/)
+
 | Command | Description |
 |---------|-------------|
 | `uv python list` | Lists all available Python versions installed on the system. |
